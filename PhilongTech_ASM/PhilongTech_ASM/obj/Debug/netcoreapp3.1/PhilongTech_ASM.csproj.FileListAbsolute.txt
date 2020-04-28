@@ -1,0 +1,12 @@
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.csprojAssemblyReference.cache
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.exe
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.dll
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\bin\Debug\netcoreapp3.1\PhilongTech_ASM.pdb
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.dll
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.pdb
+C:\Users\DELL.DUNGFPT\source\repos\PhilongTech_ASM\PhilongTech_ASM\obj\Debug\netcoreapp3.1\PhilongTech_ASM.genruntimeconfig.cache
